@@ -1,5 +1,5 @@
 # Flights
-# Avatar annonce les vols depeuis paris CDG vers destinations
+# Avatar annonce l'heure d’un vol depeuis paris CDG vers destinations
 
 - vole depuis paris
 
