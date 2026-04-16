@@ -1,0 +1,13 @@
+{
+	"modules": { 
+		"Flights": {
+			"version": "1.0",
+			"name": "vol",
+			"API_KEY": "0426e9129e7efdf0dcb60ad781d0578e",
+			"rules": {
+				"askType": ["flights","flight"]
+			}
+		}
+	}
+}
+			
