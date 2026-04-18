@@ -12,6 +12,9 @@
 - exemple : donne mo/quel sont les/le vol
 - ensuite avatar vous repond : Tu veux les vols depuis Paris, vers une destination ou une compagnie ?
 - vous : 3 reponse = depuis Paris/Paris, une destination/destination, une compagnie/compagnie
+- - depuis paris/paris
+  - rome, florence, sofia, malte
+  - air france, klm, qatar
 
 - aller sur ce site s'inscrire demander une clé Api ensuite la renseigner sur le fichier propriété
 
